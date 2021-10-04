@@ -1,4 +1,4 @@
-# Projeto Análise exploratória corrida UBER
+# Projeto Análise exploratória pontos corridas UBER
 
 Este projeto tem como finalidade testar as
 ferramentas disponiveis na bibioteca Streamlit.
